@@ -1,0 +1,9 @@
+opencv-python
+numpy==1.26.4
+scipy==1.10.1
+scikit-learn
+matplotlib
+kymatio
+torch
+joblib
+pandas
