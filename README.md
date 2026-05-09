@@ -171,6 +171,3 @@ This project was recreated for:
 # Author
 
 Venkata Chaitanya Kolicharamu
-
-GitHub:
-[GitHub Profile](https://github.com/chaitanyakolicharamu?utm_source=chatgpt.com)
