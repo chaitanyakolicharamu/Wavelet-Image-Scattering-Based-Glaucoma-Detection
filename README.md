@@ -5,7 +5,7 @@ This project recreates and analyzes the paper:
 **“Wavelet Image Scattering Based Glaucoma Detection”**
 
 The implementation focuses on glaucoma detection using image processing, wavelet scattering feature extraction, and machine learning classification techniques on retinal fundus images.
-fvvfvfvf
+fvvfvf
 ---
 
 # Project Overview
